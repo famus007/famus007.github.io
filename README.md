@@ -7,8 +7,8 @@ famus portfolio
 -big impact project1!
 -big impact project2!
 -big impact project3!
-###Team Educational background
+### Team Educational background
 BSC IT!
 HND IMIS!
-###PROJECTS UNDERTAKEN BY FAMUS
+### PROJECTS UNDERTAKEN BY FAMUS
 cloud projects
